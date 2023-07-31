@@ -5,12 +5,12 @@
 
 As database postgres is used.
 
-Uses gems
+### Uses gems
 
-- simple_form
-- better_errors
+- simple_form - a gem that simplifies using forms in rails.
+- better_errors - better debugging of errors.
 
-Database
+### Database
 
 - Post
   - title
